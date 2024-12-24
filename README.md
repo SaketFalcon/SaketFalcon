@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SaketFalcon
+- 👋 Hi, I’m @Saket 
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning web development on Udemy.
-- 💞️ I’m looking for first opportunity in the field of Software Development.
 - 📫 How to reach me saketkumarsingh7585@gmail.com
 
 
